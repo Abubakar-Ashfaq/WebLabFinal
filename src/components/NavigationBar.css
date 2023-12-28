@@ -1,0 +1,16 @@
+.active {
+    color: rgb(8, 176, 237); /* or any style you prefer */
+    font-weight: bold;
+  }
+  
+  /* Optional styling for the navigation bar */
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
